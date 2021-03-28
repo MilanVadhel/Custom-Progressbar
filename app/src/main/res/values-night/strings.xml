@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_p1">Show P1</string>
+    <string name="hide_p1">Hide P1</string>
+    <string name="show_p2">Show P2</string>
+    <string name="hide_p2">Hide P2</string>
+</resources>
